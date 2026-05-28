@@ -1,3 +1,4 @@
+
 -- Create Database
 CREATE DATABASE IF NOT EXISTS mp0487_firalia;
 USE mp0487_firalia;
